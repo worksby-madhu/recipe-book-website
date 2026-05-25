@@ -4,7 +4,7 @@ A responsive recipe website for food enthusiasts developed using HTML, CSS, and 
 
 ## Features
 - 50+ recipe items
-- Multiple categories
+- Multiple categories 
 - Recipe images and links
 - Responsive design
 - Contact section
